@@ -26,13 +26,10 @@ body {
 }
 
 li {
-    float:left;
     margin-top:50px;
     list-style:none;
-    margin-left:505px;
     padding: 5px 0px 5px 5px;
     margin-bottom: 5px;
-    border-bottom: 1px solid #efefef;
     font-size: 18px;
     font-weight: bold;
     text-align: center;
@@ -45,7 +42,7 @@ li {
     color:white;
     font-size:13px;
     font-weight: bold;
-    margin-top:165px;
+    margin-top:90px;
     cursor:pointer;
 }
 
@@ -59,6 +56,6 @@ li {
     color:white;
     font-size:14px;
     font-weight: bold;
-    margin-top:70px;
+    margin-top:80px;
     margin-left:20px;
 }
